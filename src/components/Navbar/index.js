@@ -7,7 +7,7 @@ const Navbar = () => {
       <Nav>
         <NavMenu>
           <a className="navbar-brand" href="/">
-            <img src="./dw-logo.png" alt="DW Logo" width="80" height="80" />
+            <img src="./dw-logo.png" alt="DW Logo" width="80" height="94" />
           </a>
           <NavLink to="/about" activeStyle>
             about us
