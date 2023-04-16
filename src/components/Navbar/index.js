@@ -18,6 +18,9 @@ const Navbar = () => {
           <NavLink to="/operations" activeStyle>
             our operations
           </NavLink>
+          <NavLink to="/sustainability" activeStyle>
+            sustainability
+          </NavLink>
           <NavLink to="/careers" activeStyle>
             join us
           </NavLink>
