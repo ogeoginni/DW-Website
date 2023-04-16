@@ -1,5 +1,34 @@
 .App {
   text-align: center;
+  color: #f9f8fa;
+  margin: 60px auto;
+  max-width: 100;
+  display: block;
+}
+
+p {
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.navigation-links a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 35px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 10px 30px;
+  border-radius: 4px;
 }
 
 @media screen and (max-width: 1366px) {
