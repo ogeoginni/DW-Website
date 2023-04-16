@@ -6,6 +6,11 @@
   display: block;
 }
 
+.body-wrap {
+  margin-top: 50px;
+  background: #f9f8fa;
+}
+
 p {
   padding: 20px;
   border-radius: 4px;
